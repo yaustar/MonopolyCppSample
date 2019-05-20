@@ -1,0 +1,1367 @@
+BoardSquare
+{
+	Name
+	{
+		Go!
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Old Kent Road
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			2
+		}
+		RentOneHouse
+		{
+			10
+		}
+		RentTwoHouses
+		{
+			30
+		}
+		RentThreeHouses
+		{
+			90
+		}
+		RentFourHouses
+		{
+			160
+		}
+		RentHotel
+		{
+			250
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			1
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Community Chest
+	}
+	CommunityChest
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Old Kent Road
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			2
+		}
+		RentOneHouse
+		{
+			10
+		}
+		RentTwoHouses
+		{
+			30
+		}
+		RentThreeHouses
+		{
+			90
+		}
+		RentFourHouses
+		{
+			160
+		}
+		RentHotel
+		{
+			250
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			1
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Income Tax
+	}
+	Tax
+	{
+		Amount
+		{
+			200
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Kings Cross Station
+	}
+	Ownable
+	{
+	}
+	Station
+	{
+		RentOneStation
+		{
+			25
+		}
+		RentTwoStations
+		{
+			50
+		}
+		RentThreeStations
+		{
+			100
+		}
+		RentFourStations
+		{
+			200
+		}
+	}
+	Set
+	{
+		SetId
+		{
+			10
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		The Angel Islington
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			6
+		}
+		RentOneHouse
+		{
+			30
+		}
+		RentTwoHouses
+		{
+			90
+		}
+		RentThreeHouses
+		{
+			270
+		}
+		RentFourHouses
+		{
+			400
+		}
+		RentHotel
+		{
+			550
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			2
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Chance
+	}
+	Chance
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Euston Road
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			6
+		}
+		RentOneHouse
+		{
+			30
+		}
+		RentTwoHouses
+		{
+			90
+		}
+		RentThreeHouses
+		{
+			270
+		}
+		RentFourHouses
+		{
+			400
+		}
+		RentHotel
+		{
+			550
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			2
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Pentonville Road
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			8
+		}
+		RentOneHouse
+		{
+			40
+		}
+		RentTwoHouses
+		{
+			100
+		}
+		RentThreeHouses
+		{
+			300
+		}
+		RentFourHouses
+		{
+			450
+		}
+		RentHotel
+		{
+			600
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			2
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Jail
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Pall Mall
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			10
+		}
+		RentOneHouse
+		{
+			50
+		}
+		RentTwoHouses
+		{
+			150
+		}
+		RentThreeHouses
+		{
+			450
+		}
+		RentFourHouses
+		{
+			625
+		}
+		RentHotel
+		{
+			750
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			3
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Electric Company
+	}
+	Ownable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			9
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Whitehall
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			10
+		}
+		RentOneHouse
+		{
+			50
+		}
+		RentTwoHouses
+		{
+			150
+		}
+		RentThreeHouses
+		{
+			450
+		}
+		RentFourHouses
+		{
+			625
+		}
+		RentHotel
+		{
+			750
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			3
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Northumberland Avenue
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			12
+		}
+		RentOneHouse
+		{
+			60
+		}
+		RentTwoHouses
+		{
+			180
+		}
+		RentThreeHouses
+		{
+			500
+		}
+		RentFourHouses
+		{
+			700
+		}
+		RentHotel
+		{
+			900
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			3
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Marylebone Station
+	}
+	Ownable
+	{
+	}
+	Station
+	{
+		RentOneStation
+		{
+			25
+		}
+		RentTwoStations
+		{
+			50
+		}
+		RentThreeStations
+		{
+			100
+		}
+		RentFourStations
+		{
+			200
+		}
+	}
+	Set
+	{
+		SetId
+		{
+			10
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Bow Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			14
+		}
+		RentOneHouse
+		{
+			70
+		}
+		RentTwoHouses
+		{
+			200
+		}
+		RentThreeHouses
+		{
+			550
+		}
+		RentFourHouses
+		{
+			750
+		}
+		RentHotel
+		{
+			950
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			4
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Community Chest
+	}
+	CommunityChest
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Marlborough Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			14
+		}
+		RentOneHouse
+		{
+			70
+		}
+		RentTwoHouses
+		{
+			200
+		}
+		RentThreeHouses
+		{
+			550
+		}
+		RentFourHouses
+		{
+			750
+		}
+		RentHotel
+		{
+			950
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			4
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Vine Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			16
+		}
+		RentOneHouse
+		{
+			80
+		}
+		RentTwoHouses
+		{
+			220
+		}
+		RentThreeHouses
+		{
+			600
+		}
+		RentFourHouses
+		{
+			800
+		}
+		RentHotel
+		{
+			1000
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			4
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Free Parking
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Strand
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			18
+		}
+		RentOneHouse
+		{
+			90
+		}
+		RentTwoHouses
+		{
+			250
+		}
+		RentThreeHouses
+		{
+			700
+		}
+		RentFourHouses
+		{
+			875
+		}
+		RentHotel
+		{
+			1050
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			5
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Chance
+	}
+	Chance
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Fleet Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			18
+		}
+		RentOneHouse
+		{
+			90
+		}
+		RentTwoHouses
+		{
+			250
+		}
+		RentThreeHouses
+		{
+			700
+		}
+		RentFourHouses
+		{
+			875
+		}
+		RentHotel
+		{
+			1050
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			5
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Trafalgar Square
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			20
+		}
+		RentOneHouse
+		{
+			100
+		}
+		RentTwoHouses
+		{
+			300
+		}
+		RentThreeHouses
+		{
+			750
+		}
+		RentFourHouses
+		{
+			925
+		}
+		RentHotel
+		{
+			1100
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			5
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Fenchurch St Station
+	}
+	Ownable
+	{
+	}
+	Station
+	{
+		RentOneStation
+		{
+			25
+		}
+		RentTwoStations
+		{
+			50
+		}
+		RentThreeStations
+		{
+			100
+		}
+		RentFourStations
+		{
+			200
+		}
+	}
+	Set
+	{
+		SetId
+		{
+			10
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Leicester Square
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			22
+		}
+		RentOneHouse
+		{
+			110
+		}
+		RentTwoHouses
+		{
+			330
+		}
+		RentThreeHouses
+		{
+			800
+		}
+		RentFourHouses
+		{
+			975
+		}
+		RentHotel
+		{
+			1150
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			6
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Conventry Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			22
+		}
+		RentOneHouse
+		{
+			110
+		}
+		RentTwoHouses
+		{
+			330
+		}
+		RentThreeHouses
+		{
+			800
+		}
+		RentFourHouses
+		{
+			975
+		}
+		RentHotel
+		{
+			1150
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			6
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Water Works
+	}
+	Ownable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			9
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Piccadilly
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			22
+		}
+		RentOneHouse
+		{
+			120
+		}
+		RentTwoHouses
+		{
+			360
+		}
+		RentThreeHouses
+		{
+			850
+		}
+		RentFourHouses
+		{
+			1025
+		}
+		RentHotel
+		{
+			1200
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			6
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Go to Jail
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Regent Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			26
+		}
+		RentOneHouse
+		{
+			120
+		}
+		RentTwoHouses
+		{
+			360
+		}
+		RentThreeHouses
+		{
+			850
+		}
+		RentFourHouses
+		{
+			1025
+		}
+		RentHotel
+		{
+			1200
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			7
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Oxford Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			26
+		}
+		RentOneHouse
+		{
+			120
+		}
+		RentTwoHouses
+		{
+			360
+		}
+		RentThreeHouses
+		{
+			850
+		}
+		RentFourHouses
+		{
+			1025
+		}
+		RentHotel
+		{
+			1200
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			7
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Community Chest
+	}
+	CommunityChest
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Bond Street
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			28
+		}
+		RentOneHouse
+		{
+			150
+		}
+		RentTwoHouses
+		{
+			450
+		}
+		RentThreeHouses
+		{
+			1000
+		}
+		RentFourHouses
+		{
+			1200
+		}
+		RentHotel
+		{
+			1400
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			7
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Liverpool St Station
+	}
+	Ownable
+	{
+	}
+	Station
+	{
+		RentOneStation
+		{
+			25
+		}
+		RentTwoStations
+		{
+			50
+		}
+		RentThreeStations
+		{
+			100
+		}
+		RentFourStations
+		{
+			200
+		}
+	}
+	Set
+	{
+		SetId
+		{
+			10
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Chance
+	}
+	Chance
+	{
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Park Lane
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			35
+		}
+		RentOneHouse
+		{
+			175
+		}
+		RentTwoHouses
+		{
+			500
+		}
+		RentThreeHouses
+		{
+			1100
+		}
+		RentFourHouses
+		{
+			1300
+		}
+		RentHotel
+		{
+			1500
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			8
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Super Tax
+	}
+	Tax
+	{
+		Amount
+		{
+			100
+		}
+	}
+}
+
+BoardSquare
+{
+	Name
+	{
+		Mayfair
+	}
+	Rentable
+	{
+		RentSiteOnly
+		{
+			50
+		}
+		RentOneHouse
+		{
+			200
+		}
+		RentTwoHouses
+		{
+			600
+		}
+		RentThreeHouses
+		{
+			1400
+		}
+		RentFourHouses
+		{
+			1700
+		}
+		RentHotel
+		{
+			2000
+		}
+	}
+	Ownable
+	{
+	}
+	Buildable
+	{
+	}
+	Set
+	{
+		SetId
+		{
+			8
+		}
+	}
+}

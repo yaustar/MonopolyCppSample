@@ -1,0 +1,414 @@
+Square Name: Go!
+
+Square Name: Old Kent Road
+Houses built: 0
+Owned by Player 2
+Part of set 1
+
+Square Name: Community Chest
+
+Square Name: Old Kent Road
+Houses built: 4
+Owned by Player 1
+Part of set 1
+
+Square Name: Income Tax
+Tax Amount: 200
+
+Square Name: Kings Cross Station
+Owned by Player 1
+Part of set 10
+
+Square Name: The Angel Islington
+Houses built: 3
+Owned by Player 2
+Part of set 2
+
+Square Name: Chance
+
+Square Name: Euston Road
+Houses built: 0
+Owned by Player 1
+Part of set 2
+
+Square Name: Pentonville Road
+Houses built: 4
+Owned by Player 2
+Part of set 2
+
+Square Name: Jail
+
+Square Name: Pall Mall
+Houses built: 1
+Owned by Player 2
+Part of set 3
+
+Square Name: Electric Company
+Owned by Player 1
+Part of set 9
+
+Square Name: Whitehall
+Houses built: 2
+Owned by Player 2
+Part of set 3
+
+Square Name: Northumberland Avenue
+Houses built: 0
+Owned by Player 1
+Part of set 3
+
+Square Name: Marylebone Station
+Owned by Player 1
+Part of set 10
+
+Square Name: Bow Street
+Houses built: 3
+Owned by Player 1
+Part of set 4
+
+Square Name: Community Chest
+
+Square Name: Marlborough Street
+Hotel built: 1
+Owned by Player 1
+Part of set 4
+
+Square Name: Vine Street
+Houses built: 0
+Owned by Player 1
+Part of set 4
+
+Square Name: Free Parking
+
+Square Name: Strand
+Houses built: 0
+Owned by Player 1
+Part of set 5
+
+Square Name: Chance
+
+Square Name: Fleet Street
+Hotel built: 1
+Owned by Player 1
+Part of set 5
+
+Square Name: Trafalgar Square
+Houses built: 3
+Owned by Player 1
+Part of set 5
+
+Square Name: Fenchurch St Station
+Owned by Player 1
+Part of set 10
+
+Square Name: Leicester Square
+Houses built: 2
+Owned by Player 2
+Part of set 6
+
+Square Name: Conventry Street
+Houses built: 2
+Owned by Player 2
+Part of set 6
+
+Square Name: Water Works
+Owned by Player 1
+Part of set 9
+
+Square Name: Piccadilly
+Houses built: 1
+Owned by Player 1
+Part of set 6
+
+Square Name: Go to Jail
+
+Square Name: Regent Street
+Houses built: 1
+Owned by Player 1
+Part of set 7
+
+Square Name: Oxford Street
+Houses built: 1
+Owned by Player 2
+Part of set 7
+
+Square Name: Community Chest
+
+Square Name: Bond Street
+Houses built: 4
+Owned by Player 2
+Part of set 7
+
+Square Name: Liverpool St Station
+Owned by Player 1
+Part of set 10
+
+Square Name: Chance
+
+Square Name: Park Lane
+Houses built: 3
+Owned by Player 1
+Part of set 8
+
+Square Name: Super Tax
+Tax Amount: 100
+
+Square Name: Mayfair
+Houses built: 0
+Owned by Player 1
+Part of set 8
+
+
+== TURN 1 ==
+Rolls a 6
+
+Player 1 has landed on The Angel Islington
+Houses built: 3
+Player 1 is paying 270 rent to Player 2
+
+Player name: Player 1
+Money: 1230
+
+Player name: Player 2
+Money: 1770
+
+== TURN 2 ==
+Rolls a 8
+
+Player 2 has landed on Euston Road
+Houses built: 0
+Player 2 is paying 6 rent to Player 1
+
+Player name: Player 1
+Money: 1236
+
+Player name: Player 2
+Money: 1764
+
+== TURN 3 ==
+Rolls a 8
+
+Player 1 has landed on Northumberland Avenue
+
+Player name: Player 1
+Money: 1236
+
+Player name: Player 2
+Money: 1764
+
+== TURN 4 ==
+Rolls a 10
+
+Player 2 has landed on Marlborough Street
+Hotel built: 1
+Player 2 is paying 950 rent to Player 1
+
+Player name: Player 1
+Money: 2186
+
+Player name: Player 2
+Money: 814
+
+== TURN 5 ==
+Rolls a 8
+
+Player 1 has landed on Chance
+Player 1 must pay 50
+
+Player name: Player 1
+Money: 2136
+
+Player name: Player 2
+Money: 814
+
+== TURN 6 ==
+Rolls a 3
+
+Player 2 has landed on Strand
+Houses built: 0
+Player 1 owns the entire set: 5
+Player 2 is paying 36 rent to Player 1
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 7 ==
+Rolls a 6
+
+Player 1 has landed on Water Works
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 8 ==
+Rolls a 7
+
+Player 2 has landed on Water Works
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 9 ==
+Rolls a 5
+
+Player 1 has landed on Community Chest
+Player 1 moves back three spaces
+Player 1 has landed on Go to Jail
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 10 ==
+Rolls a 5
+
+Player 2 has landed on Community Chest
+Player 2 moves back three spaces
+Player 2 has landed on Go to Jail
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 11 ==
+Rolls a 3
+
+Player 1 has landed on Community Chest
+Player 1 moves back three spaces
+Player 1 has landed on Go to Jail
+
+Player name: Player 1
+Money: 2172
+
+Player name: Player 2
+Money: 778
+
+== TURN 12 ==
+Rolls a 9
+
+Player 2 has landed on Mayfair
+Houses built: 0
+Player 1 owns the entire set: 8
+Player 2 is paying 100 rent to Player 1
+
+Player name: Player 1
+Money: 2272
+
+Player name: Player 2
+Money: 678
+
+== TURN 13 ==
+Rolls a 2 which was a double 1!
+
+Player 1 has landed on Oxford Street
+Houses built: 1
+Player 1 is paying 120 rent to Player 2
+
+Player name: Player 1
+Money: 2152
+
+Player name: Player 2
+Money: 798
+
+== TURN 14 ==
+Rolls a 6
+
+Player 2 has passed Go! Collects 200
+Player 2 has landed on Kings Cross Station
+Player 1 owns 3 Stations
+Player 2 is paying 100 rent to Player 1
+
+Player name: Player 1
+Money: 2252
+
+Player name: Player 2
+Money: 898
+
+== TURN 15 ==
+Rolls a 5
+
+Player 1 has landed on Park Lane
+
+Player name: Player 1
+Money: 2252
+
+Player name: Player 2
+Money: 898
+
+== TURN 16 ==
+Rolls a 8
+
+Player 2 has landed on Whitehall
+
+Player name: Player 1
+Money: 2252
+
+Player name: Player 2
+Money: 898
+
+== TURN 17 ==
+Rolls a 7
+
+Player 1 has passed Go! Collects 200
+Player 1 has landed on Income Tax
+Player 1 pays 200
+
+Player name: Player 1
+Money: 2252
+
+Player name: Player 2
+Money: 898
+
+== TURN 18 ==
+Rolls a 7
+
+Player 2 has landed on Free Parking
+
+Player name: Player 1
+Money: 2252
+
+Player name: Player 2
+Money: 898
+
+== TURN 19 ==
+Rolls a 7
+
+Player 1 has landed on Pall Mall
+Houses built: 1
+Player 1 is paying 50 rent to Player 2
+
+Player name: Player 1
+Money: 2202
+
+Player name: Player 2
+Money: 948
+
+== TURN 20 ==
+Rolls a 3
+
+Player 2 has landed on Fleet Street
+Hotel built: 1
+Player 2 is paying 1050 rent to Player 1
+
+Player name: Player 1
+Money: 3252
+
+Player name: Player 2
+Money: -102
+
+== GAME STATUS ==
+The following players have the most money:
+- Player 1

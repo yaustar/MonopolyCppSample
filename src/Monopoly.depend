@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1273694525 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\diceroller.cpp
+	"DiceRoller.h"
+	<cstdlib>
+
+1273693131 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\diceroller.h
+
+1273709076 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\monopolygame.cpp
+	"MonopolyGame.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<algorithm>
+	"Utils.h"
+	"BoardSquare.h"
+	"PluginOwnable.h"
+	"PluginBuildable.h"
+
+1273708520 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\monopolygame.h
+	<vector>
+	"DiceRoller.h"
+	"Player.h"
+
+1273780525 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\player.h
+	<string>
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\utils.h
+	<string>
+	<istream>
+
+1273780525 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\boardsquare.h
+	<map>
+	<istream>
+	<string>
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginownable.h
+	<istream>
+	"PluginBase.h"
+
+1273711702 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginbase.h
+	<string>
+
+1273780525 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginbuildable.h
+	<istream>
+	"PluginBase.h"
+
+1273780576 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\player.cpp
+	"Player.h"
+	<iostream>
+
+1273631012 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginbase.cpp
+	"PluginBase.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginbuildable.cpp
+	"PluginBuildable.h"
+	<iostream>
+	"Utils.h"
+	"Player.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginchance.cpp
+	"PluginChance.h"
+	<iostream>
+	"Utils.h"
+	"Player.h"
+
+1273780525 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginchance.h
+	<istream>
+	"PluginBase.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\plugincommunitychest.cpp
+	"PluginCommunityChest.h"
+	<iostream>
+	"Utils.h"
+	"MonopolyGame.h"
+
+1273780525 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\plugincommunitychest.h
+	<istream>
+	"PluginBase.h"
+
+1273711817 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginownable.cpp
+	"PluginOwnable.h"
+	<iostream>
+	"Utils.h"
+	"Player.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginrentable.cpp
+	"PluginRentable.h"
+	<iostream>
+	"Utils.h"
+	"PluginOwnable.h"
+	"Player.h"
+	"BoardSquare.h"
+	"PluginBuildable.h"
+	"PropertySetManager.h"
+	"PluginSet.h"
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginrentable.h
+	<istream>
+	"PluginBase.h"
+
+1273778795 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\propertysetmanager.h
+	<vector>
+	<map>
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginset.h
+	<istream>
+	"PluginBase.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginset.cpp
+	"PluginSet.h"
+	<iostream>
+	"Utils.h"
+	"PropertySetManager.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginstation.cpp
+	"PluginStation.h"
+	<iostream>
+	"Utils.h"
+	"PluginOwnable.h"
+	"Player.h"
+	"BoardSquare.h"
+	"PropertySetManager.h"
+	"PluginSet.h"
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\pluginstation.h
+	<istream>
+	"PluginBase.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\plugintax.cpp
+	"PluginTax.h"
+	<iostream>
+	"Utils.h"
+	"Player.h"
+
+1273780526 c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\plugintax.h
+	<istream>
+	"PluginBase.h"
+
+1273778821 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\propertysetmanager.cpp
+	"PropertySetManager.h"
+	<algorithm>
+	"PluginSet.h"
+	"Player.h"
+	"PluginOwnable.h"
+	"BoardSquare.h"
+
+1273780577 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\utils.cpp
+	"Utils.h"
+	<algorithm>
+
+1273779410 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"MonopolyGame.h"
+
+1273780525 source:c:\documents and settings\pvr\my documents\my dropbox\jobs\monopoly\boardsquare.cpp
+	"BoardSquare.h"
+	<string>
+	<algorithm>
+	<iostream>
+	"MonopolyGame.h"
+	"Player.h"
+	"PluginRentable.h"
+	"PluginOwnable.h"
+	"PluginBuildable.h"
+	"PluginChance.h"
+	"PluginCommunityChest.h"
+	"PluginSet.h"
+	"PluginTax.h"
+	"PluginStation.h"
+	"Utils.h"
+
